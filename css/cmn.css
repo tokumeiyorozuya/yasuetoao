@@ -1,0 +1,47 @@
+#bar {
+    position: absolute;
+    width: 900px;
+    height:58px;
+    left: 681px;
+    top: 121px;
+    margin-left: -450px;
+    margin-top: -29px;
+    background-color: #ffffff;
+
+/*  FONT STYLE  */
+
+.E9, .E10  { font-family:Verdana,Arial,Helvetica,Geneva,sans-serif; color: #666666}
+.T9, .T12  { font-family:Osaka, ÇlÇr ÇoÉSÉVÉbÉN, MS UI Gothic, sans-serif; color: #666666}
+.T8  { font-size:8px: font-family:Osaka, ÇlÇr ÇoÉSÉVÉbÉN, MS UI Gothic, sans-serif; color: #666666}
+.T10  {  font-family:ÇlÇr ÉSÉVÉbÉN, OsakaÅ|ìôïù; color: #666666}
+.h1  {  font-weight:bold; color: #666666}
+.red  { color: #B20A0A}
+.wht  { color: #FFFFFF}
+.gry  { color: #666666}
+.yrw  { color: #EAD15D}
+
+/*  /FONT STYLE  */
+
+
+/*  MARGIN  */
+
+.mT5 {margin-top:5px;}
+.mT10 {margin-top:10px;}
+.mT15 {margin-top:15px;}
+.mT20 {margin-top:20px;}
+.mT25 {margin-top:25px;}
+.mT30 {margin-top:30px;}
+.mTL10 {margin-top:10px;margin-left:20px;}
+.mTL15 {margin-top:15px;margin-left:20px;}
+.mTL10 {margin-top:10px;margin-left:20px;}
+.mTLds {margin-top:15px;margin-bottom:100px;margin-left:20px;}
+.mTLdm {margin-top:15px;margin-bottom:15px;margin-left:20px;}
+.mTLdp {margin-top:80px;margin-left:20px;}
+.mTLdpt {margin-left:20px;margin-bottom:15px;}
+.mTb20 {margin-top:20px;margin-bottom:20px;}
+.mL20 {margin-left:20px;}
+.mr45 {margin-right:45px;}
+.mB15 {margin-bottom:15px;}
+.mB40 {margin-bottom:40px;}
+
+/*  /MARGIN  */
